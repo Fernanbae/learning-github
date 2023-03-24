@@ -3,3 +3,4 @@ Road to Developer
 - Learn: Springboot
 - Learh: PHP
 - Learn: PHP Web Framework (Laravel)
+- Learn: JavaScript
