@@ -2,6 +2,9 @@ Getting started to front-end
 - Learn: HTML
 - Learn: CSS
       * Fundamental of CSS
+      * CSS Layouting use CSS Grid
+      * Learn TailwindCSS framework
 - Learn: JavaScript
       * Fundamentals
       * Document Object Manipulation (DOM)
+      * Learn ReactJS framework
