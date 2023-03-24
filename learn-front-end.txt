@@ -1,5 +1,5 @@
 Getting started to front-end
 - Learn: HTML & CSS
 - Learn: JavaScript
-      - Fundamentals
-      - Document Object Manipulation (DOM)
+      * Fundamentals
+      * Document Object Manipulation (DOM)
