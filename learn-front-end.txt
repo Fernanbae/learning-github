@@ -6,5 +6,4 @@ Getting started to front-end
       * Learn TailwindCSS framework
 - Learn: JavaScript
       * Fundamentals
-      * Document Object Manipulation (DOM)
       * Learn ReactJS framework
