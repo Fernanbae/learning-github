@@ -9,4 +9,4 @@ Getting started to front-end
       * Learn Bootstrap Framework
 - Learn: JavaScript
       * Fundamentals
-      * Document Object Manipulation (DOM)
+      * Learn ReactJS framework
