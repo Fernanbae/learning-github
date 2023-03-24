@@ -1,7 +1,11 @@
 Getting started to front-end
+- Learn: Internet
+     * How internet works?
 - Learn: HTML
 - Learn: CSS
       * Fundamental of CSS
+      * CSS Layouting use Flexbox
+      * Learn Bootstrap Framework
 - Learn: JavaScript
       * Fundamentals
       * Document Object Manipulation (DOM)
